@@ -1,7 +1,7 @@
 {
-  "name": "npm-typescript-esm-bun-boilerplate",
+  "name": "@thaitype/npm-typescript-esm-bun-boilerplate",
   "version": "0.0.0",
-  "description": "NPM package boilerplate with TypeScript, ESM, and Bun",
+  "description": "NPM TypeScript Boilerplate with Bun, ESM, using TSC without bundler, support Sourcemap from TypeScript",
   "type": "module",
   "scripts": {
     "check": "tsc -b tsconfig.json",

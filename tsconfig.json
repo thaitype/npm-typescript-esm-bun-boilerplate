@@ -22,11 +22,5 @@
     "noUnusedLocals": false,
     "noUnusedParameters": false,
     "noPropertyAccessFromIndexSignature": false,
-
-    // Absolute paths
-    "baseUrl": ".",
-    "paths": {
-      "npm-typescript-esm-bun-boilerplate": ["src/index.ts"],
-    },
   }
 }
