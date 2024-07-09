@@ -20,8 +20,8 @@ bun run check:watch
 
 ## Publish
 
-Using `release-it` to publish the package
+Using `release-it` to publish the package, using npm commandline with OTP (One Time Password) for 2FA (Two Factor Authentication)
+
 ```
 bun run release
 ``` 
-
